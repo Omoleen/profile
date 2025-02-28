@@ -20,4 +20,4 @@ Below are a few projects that showcase my skills and interests.
 - **Technologies:** Figma, Adobe XD.
 - **Links:** [View Designs](#)
 
-For more projects and details, visit my [GitHub](https://github.com/yourusername).
+For more projects and details, visit my [GitHub](https://github.com/omoleen).
